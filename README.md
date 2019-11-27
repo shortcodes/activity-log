@@ -1,7 +1,7 @@
 # Activity Log
 Activity Log for Laravel Application
 
-#Install
+# Install
 
     composer require shortcodes/activity-log
 
